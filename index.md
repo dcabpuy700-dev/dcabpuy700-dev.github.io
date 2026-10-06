@@ -30,4 +30,4 @@ Plataformas como **Hugging Face** actúan como el epicentro de este movimiento, 
 * [Explorar Modelos en Hugging Face](https://huggingface.co)
 * [GitHub del Movimiento Open Source](https://github.com)
 
-_Documento informativo sobre tecnologías abiertas._
+_[Documento informativo sobre tecnologías abiertas](./arquitectura.md)_
